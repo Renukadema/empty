@@ -1,19 +1,20 @@
 Git--->local repository
 Github--> centralised repository
-
+========================================
 Git--Download/install in widows and linux
 github account creation
-
+==========================================
 git config --global user.name "username"
 git config --global user.email "emailid"
-
+========================================
 vi,vim,touch---> create file
-
+=========================================
 git clone <windows----HTTP url>
-
+=======================================
 ssh-keygen----github settings--ssh--add
 git clone <linux --- SSH url>
-
+======================================
 Git add .
 git commit -m "msg"
 git push origin <branchname>
+-=====================================
